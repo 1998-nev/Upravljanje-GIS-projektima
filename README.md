@@ -1,1 +1,0 @@
-# Upravljanje-GIS-projektima
